@@ -1,5 +1,5 @@
 package Logic;
-
+// Getters and setters for charity program.
 public interface ICharity {
 	
 	void setDonorName(String dName);
